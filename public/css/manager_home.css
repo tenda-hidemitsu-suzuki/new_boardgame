@@ -1,0 +1,59 @@
+
+.text{
+	text-align: center;
+	 font-size:  40px;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+
+
+.all{
+	margin: 16px auto;
+	text-align: center;
+	display: block;
+	border: 1px solid #000;
+}
+
+.all .left{
+	text-align: left;
+	display: inline-block;
+	
+}
+
+
+
+
+.middle{
+	text-align: center;
+}
+
+
+.table-wrap{
+	overflow-x: scroll;
+}
+
+
+.table{
+	width: 100%;
+	border-collapse: collapse;
+	white-space: nowrap;
+}
+
+.table th,
+.table td{
+	border: 2px solid #eee;
+	padding: 4px 8px;
+	
+}
+
+
+
+
+

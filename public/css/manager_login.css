@@ -1,0 +1,15 @@
+body{
+
+	margin: 16px auto;
+	text-align: center;
+	display: block;
+	border: 1px solid #000;
+}
+
+body div {
+	text-align: right;
+	display: inline-block;
+}
+
+
+
